@@ -1,3 +1,7 @@
+Git
+
+Padeev Vasiliy
+
 Задание 1
 
 https://github.com/Vasiliy-Ser/test/commit/fe587817b0a2e604a99f4d3c2c062aa13b12ac87
